@@ -1,4 +1,4 @@
-Class test{
+class test{
 
 class Address {
 
